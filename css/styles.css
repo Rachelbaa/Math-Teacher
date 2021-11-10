@@ -11499,3 +11499,12 @@ li{direction:rtl; margin-right:20px;}
   color: #714955;
   text-decoration: none;
 }
+
+.social-icons-container{
+  display: flex;
+  margin-left: 20px;
+
+}
+.social-icon {
+  margin-right: 20px;
+}
